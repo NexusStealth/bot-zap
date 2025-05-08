@@ -32,9 +32,9 @@
    ```bash
    npm install
 
-##📌 Informações de Acesso e Responsabilidade
-Criador: Ytallo Gabriel
-Instagram: @levi_oliveira86
-GitHub: github.com/NexusStealth
-Startup: Garra Inc Technology
-Localização: Pernambuco, Brasil
+## 📌 Informações de Acesso e Responsabilidade
+- Criador: Ytallo Gabriel
+- Instagram: @levi_oliveira86
+- GitHub: github.com/NexusStealth
+- Startup: Garra Inc Technology
+- Localização: Pernambuco, Brasil
